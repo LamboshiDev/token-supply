@@ -1,5 +1,5 @@
-var formObject =  {"formObject": [
-                {"total-supply": 100000000000000},
-                {"circulating-supply": 100000000000000},
-                {"max-supply": 100000000000000},
-                ]}
+var formObject = {
+   total-supply: 100000000000000,
+   circulating-supply: 100000000000000,
+   max-supply: 100000000000000,
+}

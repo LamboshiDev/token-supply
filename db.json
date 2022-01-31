@@ -1,6 +1,3 @@
-{
-    "total-supply": [100000000000000],
-    "circulating-supply": [100000000000000],
-    "max-supply": [100000000000000]
-}
-var jresp = JsonConvert.SerializeObject(ControllerObject[0], Formatting.Indented);
+"total-supply": 100000000000000,
+"circulating-supply": 100000000000000,
+"max-supply": 100000000000000

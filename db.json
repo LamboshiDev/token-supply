@@ -1,7 +1,5 @@
 {
-    "pinu-total-supply": [100000000000000],
-    "pinu-circulating-supply": [99999999999999.98],
-    "pinu-max-supply": [100000000000000],
-    "pinu-uniswap": [87500000000000],
-    "pinu-private-sale": [12500000000000]
+    "total-supply": [100000000000000],
+    "circulating-supply": [99999999999999.98],
+    "max-supply": [100000000000000]
 }

@@ -1,4 +1,4 @@
-### Picollo Inu Token Supply API
+### Piccolo Inu Token Supply API
 
 Currently implemented with my JSON Server as a temporary solution to create api endpoints for circulating, total, and max supply of the token.
 

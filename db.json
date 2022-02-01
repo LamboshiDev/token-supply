@@ -1,5 +1,5 @@
 {
-    "total-supply": [100000000000000],
-    "circulating-supply": [100000000000000],
-    "max-supply": [100000000000000]
+    "pinu-total-supply": [100000000000000],
+    "pinu-circulating-supply": [100000000000000],
+    "pinu-max-supply": [100000000000000]
 }
